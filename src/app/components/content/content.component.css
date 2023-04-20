@@ -1,0 +1,7 @@
+.content-container{
+    height: calc(100vh - 100px);
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius:50px;
+    margin-top: 10px;
+}

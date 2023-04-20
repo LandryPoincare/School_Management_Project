@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.btn{
+    background-color: #17a2b8;
+}
+.b{
+    border: 1px solid #17a2b8;
+    border-radius: 50px;
+}
+.container{
+    width: 100%;
+    padding-left: var(10);
+    padding-right: var(10);
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(/src/assets/images/motifgb2.jpg);
+}

@@ -1,0 +1,9 @@
+.infos-container{
+    background-color: #17a2b8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    max-width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+}

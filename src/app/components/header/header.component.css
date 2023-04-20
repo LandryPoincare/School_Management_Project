@@ -1,0 +1,14 @@
+.header-container{
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: center;
+	background-color:#666666;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #17a2b8;
+    border-radius: 50px;
+    position: inherit;
+}
+.title span{
+    color: white;
+}
